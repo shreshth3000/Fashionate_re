@@ -1,0 +1,11 @@
+SDVITON/
+embeddings/
+demos/
+scripts/
+ipynb/
+*.ipynb
+*.pth
+*.pt
+*.tar
+*.zip
+*.csv   
